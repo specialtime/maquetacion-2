@@ -1,0 +1,20 @@
+#container{
+    width: 1000px;
+    background-color: red;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    width: 100%;
+    background-color: lightblue;
+    color: #333;
+    height: 150px;
+    line-height: 150px;
+    text-align: center;
+    
+}
+
+aside{
+    width: 100%;
+}
